@@ -1,6 +1,6 @@
 # Memory Game
 
-<p align="left"> <img src="https://readme-typing-svg.herokuapp.com?lines=Download+Link+👇" /> </p>
+<p align="left"> <img src="https://readme-typing-svg.herokuapp.com?lines=Get+It+In+Google+Play+👇" /> </p>
 
 👉 https://play.google.com/store/apps/details?id=com.hemeda.memory_game 👈
 
